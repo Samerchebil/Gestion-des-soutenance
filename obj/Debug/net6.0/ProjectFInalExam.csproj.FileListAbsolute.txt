@@ -277,3 +277,4 @@ C:\Users\samer.chebil\source\repos\ProjectFInalExam\ProjectFInalExam\obj\Debug\n
 C:\Users\samer.chebil\source\repos\ProjectFInalExam\ProjectFInalExam\obj\Debug\net6.0\ref\ProjectFInalExam.dll
 C:\Users\samer.chebil\source\repos\ProjectFInalExam\ProjectFInalExam\bin\Debug\net6.0\PagedList.dll
 C:\Users\samer.chebil\source\repos\ProjectFInalExam\ProjectFInalExam\bin\Debug\net6.0\PagedList.Mvc.dll
+C:\Users\samer.chebil\source\repos\ProjectFInalExam\ProjectFInalExam\obj\Debug\net6.0\ProjectFInalExam.sourcelink.json
